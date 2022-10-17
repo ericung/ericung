@@ -1,5 +1,5 @@
 ### Hello world! I'm Eric 👋
 
-I am a software developer that works on C# right now.
+I am a software developer that uses C# to create web applications.
 
-Currently I'm studying on [leetcode](http://leetcode.com/)! Here is a link to my [profile](http://leetcode.com/ericung).
+My leetcode [profile](http://leetcode.com/ericung).
