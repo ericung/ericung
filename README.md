@@ -8,3 +8,4 @@ Notes:
 Command Prompt Commands
 - "dsregcmd/status": check status of active directory - useful for determining Azure status
 - "git help config"
+- "ggVG": select all in vi/vim
