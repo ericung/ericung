@@ -6,7 +6,7 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 ### Research
 
-**Papers**
+**Papers**\
 [A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials)\
 [The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement)\
 [Inferrable Languages](https://github.com/ericung/InferrenceSystems)\
