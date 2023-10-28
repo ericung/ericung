@@ -13,4 +13,5 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 [Practical Chemistry](https://github.com/ericung/practicalchemistry)\
 [dost](https://github.com/ericung/dost)\
 [The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement)\
-[Inferrable Languages](https://github.com/ericung/InferrenceSystems)
+[OpenCanvas](https://github.com/ericung/opencanvas)\
+[Inferrable Languages](https://github.com/ericung/InferrenceSystems)\
