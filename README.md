@@ -4,7 +4,7 @@ I am a software engineer and consultant.
 
 Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
-**Projects**\
+**Papers, Projects, and Research**\
 [A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials)\
 [game01](https://github.com/ericung/game01)\
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
