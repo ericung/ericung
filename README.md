@@ -15,3 +15,4 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 [The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement)\
 [OpenCanvas](https://github.com/ericung/opencanvas)\
 [Inferrable Languages](https://github.com/ericung/InferrenceSystems)\
+[Icon OpenGL](https://github.com/ericung/icon-opengl)
