@@ -6,7 +6,7 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 ### Journal
 
-[09](https://github.com/ericung/09) - A journal on art, business, and research
+[zero9.art](https://github.com/ericung/zero9.art) - A journal on art, business, and research
 
 ### Research
 
