@@ -4,6 +4,10 @@ I am a software engineer and consultant.
 
 Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
+### Journal
+
+[09](https://github.com/ericung/09) - A journal on art, business, and research
+
 ### Research
 
 **Papers**\
