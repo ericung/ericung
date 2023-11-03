@@ -33,7 +33,7 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 [Exercising The Mind](https://github.com/ericung/ExercisingTheMind)\
 [folklore](https://github.com/ericung/folklore)\
-[taste and cooking for exquisite and bulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
-[an evolution of my excercise programming](https://github.com/ericung/anevolutionofmyexerciseprogramming)\
-[notes about life](https://github.com/ericung/notesaboutlife)
+[Taste and Cooking for Exquisite and Bulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
+[An Evolution of My Excercise Programming](https://github.com/ericung/anevolutionofmyexerciseprogramming)\
+[Notes About Life](https://github.com/ericung/notesaboutlife)
 
