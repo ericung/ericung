@@ -1,6 +1,6 @@
 ### Hello world! I'm Eric 👋
 
-I am a software engineer and consultant.
+I am a software engineer, consultant, and many more.
 
 Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
@@ -25,3 +25,11 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 [OpenCanvas](https://github.com/ericung/opencanvas)\
 [Inferrable Languages](https://github.com/ericung/InferrenceSystems)\
 [Icon OpenGL](https://github.com/ericung/icon-opengl)
+
+### Art
+[ExercisingTheMind](https://github.com/ericung/ExercisingTheMind)\
+[folklore](https://github.com/ericung/folklore)\
+[tasteandcookingforexquisiteandbulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
+[anevolutionofmyexcerciseprogramming](https://github.com/ericung/anevolutionofmyexerciseprogramming)\
+[notesaboutlife](https://github.com/ericung/notesaboutlife)
+
