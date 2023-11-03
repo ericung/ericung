@@ -13,7 +13,6 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 **Papers**\
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
 [A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials)\
-[The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement)\
 [Inferrable Languages](https://github.com/ericung/InferrenceSystems)\
 [Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers) - WIP\
 [Topology of Footwork](https://github.com/ericung/topologyoffootwork) - WIP\
@@ -26,10 +25,15 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 [Inferrable Languages](https://github.com/ericung/InferrenceSystems)\
 [Icon OpenGL](https://github.com/ericung/icon-opengl)
 
+### Business
+
+[The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement)
+
 ### Art
-[ExercisingTheMind](https://github.com/ericung/ExercisingTheMind)\
+
+[Exercising The Mind](https://github.com/ericung/ExercisingTheMind)\
 [folklore](https://github.com/ericung/folklore)\
-[tasteandcookingforexquisiteandbulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
-[anevolutionofmyexcerciseprogramming](https://github.com/ericung/anevolutionofmyexerciseprogramming)\
-[notesaboutlife](https://github.com/ericung/notesaboutlife)
+[taste and cooking for exquisite and bulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
+[an evolution of my excercise programming](https://github.com/ericung/anevolutionofmyexerciseprogramming)\
+[notes about life](https://github.com/ericung/notesaboutlife)
 
