@@ -31,6 +31,7 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 ### Art
 
+[The Nice Bible](https://github.com/ericung/thenicebible)\
 [Exercising The Mind](https://github.com/ericung/ExercisingTheMind)\
 [folklore](https://github.com/ericung/folklore)\
 [Taste and Cooking for Exquisite and Bulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
