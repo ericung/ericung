@@ -6,14 +6,14 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 ### Journal
 
-[zero9.art](https://github.com/ericung/zero9.art) - The journal on art, business, and research
+[zero9.art](https://zero9.art) - The Journal on Art, Business, and Research
 
 ### Research
 
 **Papers**\
+[Inferrable Languages](https://github.com/ericung/InferrableLanguages)\
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
 [A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials)\
-[Inferrable Languages](https://github.com/ericung/InferrenceSystems)\
 [Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers) - WIP\
 [Topology of Footwork](https://github.com/ericung/topologyoffootwork) - WIP\
 [Practical Chemistry](https://github.com/ericung/practicalchemistry) - WIP
