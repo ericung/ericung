@@ -17,9 +17,9 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 
 **Projects**\
-[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers) - WIP\
-[Topology of Footwork](https://github.com/ericung/topologyoffootwork) - WIP\
-[Practical Chemistry](https://github.com/ericung/practicalchemistry) - WIP\
+[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)\
+[Topology of Footwork](https://github.com/ericung/topologyoffootwork)\
+[Practical Chemistry](https://github.com/ericung/practicalchemistry)\
 [game01](https://github.com/ericung/game01)\
 [dost](https://github.com/ericung/dost)\
 [OpenCanvas](https://github.com/ericung/opencanvas)\
