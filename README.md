@@ -32,7 +32,7 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 ### Art
 
-[feb](https://github.com/ericung/feb)\
+[february](https://github.com/ericung/february)\
 [The Nice Bible](https://github.com/ericung/thenicebible)\
 [Exercising The Mind](https://github.com/ericung/ExercisingTheMind)\
 [folklore](https://github.com/ericung/folklore)\
