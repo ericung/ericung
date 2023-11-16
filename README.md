@@ -28,6 +28,7 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 ### Business
 
+[Manager Theory](https://github.com/ericung/ManagerTheory)\
 [The Value Of An Employee](https://github.com/ericung/TheValueOfAnEmployee)\
 [The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement)
 
