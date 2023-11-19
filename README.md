@@ -28,6 +28,7 @@ Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
 ### Business
 
+[Analysis Of Bad Employees](https://github.com/ericung/AnalysisOfBadEmployees)\
 [The Case With Enron](https://github.com/ericung/TheCaseWithEnron)\
 [Manager Theory](https://github.com/ericung/ManagerTheory)\
 [The Value Of An Employee](https://github.com/ericung/TheValueOfAnEmployee)\
