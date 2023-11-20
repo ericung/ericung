@@ -14,14 +14,14 @@ Let's meet in person!\
 
 ### Research
 
-**Papers**\
+**Articles**\
+[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)\
+
 [Inferrable Languages](https://github.com/ericung/InferrableLanguages)\
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
 [A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials) - Start here and work your way up.
 
-
 **Projects**\
-[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)\
 [Topology of Footwork](https://github.com/ericung/topologyoffootwork)\
 [Practical Chemistry](https://github.com/ericung/practicalchemistry)\
 [game01](https://github.com/ericung/game01)\
