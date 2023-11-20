@@ -17,7 +17,7 @@ Let's meet in person!\
 **Papers**\
 [Inferrable Languages](https://github.com/ericung/InferrableLanguages)\
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
-[A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials)
+[A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials) - Start here and work your way up.
 
 
 **Projects**\
@@ -37,7 +37,7 @@ Let's meet in person!\
 [The Case With Enron](https://github.com/ericung/TheCaseWithEnron)\
 [Manager Theory](https://github.com/ericung/ManagerTheory)\
 [The Value Of An Employee](https://github.com/ericung/TheValueOfAnEmployee)\
-[The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement)
+[The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement) - Start here and work your way up.
 
 ### Art
 
