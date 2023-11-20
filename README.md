@@ -15,7 +15,7 @@ Let's meet in person!\
 ### Research
 
 **Articles**\
-[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)\
+[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)
 
 [Inferrable Languages](https://github.com/ericung/InferrableLanguages)\
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
