@@ -17,7 +17,7 @@ Let's meet in person!\
 **Articles**\
 [Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)
 
-[Inferrable Languages](https://github.com/ericung/InferrableLanguages)\
+[Inferrable Languages](https://github.com/ericung/InferrableLanguages) - 2.0\
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
 [A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials) - Start here and work your way up.
 
@@ -27,7 +27,6 @@ Let's meet in person!\
 [game01](https://github.com/ericung/game01)\
 [dost](https://github.com/ericung/dost)\
 [OpenCanvas](https://github.com/ericung/opencanvas)\
-[Inferrable Languages](https://github.com/ericung/InferrenceSystems)\
 [Icon OpenGL](https://github.com/ericung/icon-opengl)
 
 ### Business
