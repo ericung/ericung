@@ -4,6 +4,8 @@ I am a software engineer, consultant, and many more.
 
 Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
+Let's meet in person! [Discord group](https://discord.gg/jcgFVdSY)
+
 ### Journal
 
 [zero9.art](https://zero9.art) - The Journal on Art, Business, and Research
