@@ -4,7 +4,9 @@ I am a software engineer, consultant, and many more.
 
 Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
-Let's meet in person! [Discord group](https://discord.gg/jcgFVdSY)
+Let's meet in person!\
+[Discord group](https://discord.gg/jcgFVdSY)\
+[Minneapolis Mathematics Book Club](https://www.meetup.com/minneapolis-mathematics-book-club)
 
 ### Journal
 
