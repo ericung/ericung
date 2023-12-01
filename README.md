@@ -15,8 +15,10 @@ Let's meet in person!\
 ### Research
 
 **Articles**\
-[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)
-
+[Riemann Hypothesis](https://github.com/ericung/RiemannHypothesis)\
+[Topology Of Javascript](https://github.com/ericung/TopologyOfJavascript)\
+[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)\
+[Harmonic Monomial Deciders](https://github.com/ericung/HarmonicMonomialDeciders)\
 [Inferrable Languages](https://github.com/ericung/InferrableLanguages) - 2.0\
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
 [A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials) - Start here and work your way up.
@@ -31,6 +33,7 @@ Let's meet in person!\
 
 ### Business
 
+[Vehicle Standards](https://github.com/ericung/VehicleStandards)
 [Ideal Manager](https://github.com/ericung/IdealManager)\
 [Analysis Of Bad Employees](https://github.com/ericung/AnalysisOfBadEmployees)\
 [The Case With Enron](https://github.com/ericung/TheCaseWithEnron)\
