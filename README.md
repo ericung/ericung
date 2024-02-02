@@ -1,6 +1,6 @@
 ### Hello world! I'm Eric 👋
 
-I am a software engineer, consultant, and many more.
+I am a software engineer, consultant, and many more. My research is on one way functions and their applications!
 
 Connect on [linkedin](https://www.linkedin.com/in/eric-ung-9028574b/)!
 
