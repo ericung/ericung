@@ -8,7 +8,7 @@ Let's meet in person!\
 [Discord group](https://discord.gg/jcgFVdSY)\
 [Minneapolis Mathematics Book Club](https://www.meetup.com/minneapolis-mathematics-book-club)
 
-### Research
+# Research
 
 **Articles**\
 [Riemann Hypothesis](https://github.com/ericung/RiemannHypothesis)\
@@ -27,7 +27,7 @@ Let's meet in person!\
 [OpenCanvas](https://github.com/ericung/opencanvas)\
 [Icon OpenGL](https://github.com/ericung/icon-opengl)
 
-### Business
+# Business
 
 [Vehicle Standards](https://github.com/ericung/VehicleStandards)\
 [Ideal Manager](https://github.com/ericung/IdealManager)\
@@ -37,7 +37,7 @@ Let's meet in person!\
 [The Value Of An Employee](https://github.com/ericung/TheValueOfAnEmployee)\
 [The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement) - Start here and work your way up.
 
-### Art
+# Art
 
 [Exercising The Mind](https://github.com/ericung/ExercisingTheMind)\
 [Taste and Cooking for Exquisite and Bulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
