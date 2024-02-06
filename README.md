@@ -8,10 +8,6 @@ Let's meet in person!\
 [Discord group](https://discord.gg/jcgFVdSY)\
 [Minneapolis Mathematics Book Club](https://www.meetup.com/minneapolis-mathematics-book-club)
 
-### Journal
-
-[zero9.art](https://zero9.art) - The Journal on Art, Business, and Research
-
 ### Research
 
 **Articles**\
