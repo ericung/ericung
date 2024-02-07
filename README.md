@@ -42,4 +42,4 @@ Let's meet in person!\
 [Air Force Offline Survival Guide](https://github.com/ericung/airforceofflinesurvivalguide)\
 [Exercising The Mind](https://github.com/ericung/ExercisingTheMind)\
 [Taste and Cooking for Exquisite and Bulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
-[An Evolution of My Excercise Programming](https://github.com/ericung/anevolutionofmyexerciseprogramming)\
+[An Evolution of My Excercise Programming](https://github.com/ericung/anevolutionofmyexerciseprogramming)
