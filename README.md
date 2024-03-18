@@ -25,21 +25,4 @@ Let's meet in person!\
 [game01](https://github.com/ericung/game01)\
 [dost](https://github.com/ericung/dost)\
 [OpenCanvas](https://github.com/ericung/opencanvas)\
-[Icon OpenGL](https://github.com/ericung/icon-opengl)
-
-# Business
-
-[Vehicle Standards](https://github.com/ericung/VehicleStandards)\
-[Ideal Manager](https://github.com/ericung/IdealManager)\
-[Analysis Of Bad Employees](https://github.com/ericung/AnalysisOfBadEmployees)\
-[The Case With Enron](https://github.com/ericung/TheCaseWithEnron)\
-[Manager Theory](https://github.com/ericung/ManagerTheory)\
-[The Value Of An Employee](https://github.com/ericung/TheValueOfAnEmployee)\
-[The Human Side of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement) - Start here and work your way up.
-
-# Art
-
-[Air Force Offline Survival Guide](https://github.com/ericung/airforceofflinesurvivalguide)\
-[Exercising The Mind](https://github.com/ericung/ExercisingTheMind)\
-[Taste and Cooking for Exquisite and Bulking](https://github.com/ericung/tasteandcookingforexquisiteandbulking)\
-[An Evolution of My Excercise Programming](https://github.com/ericung/anevolutionofmyexerciseprogramming)
+[Icon OpenGL](https://github.com/ericung/icon-opengl)k
