@@ -25,4 +25,4 @@ Let's meet in person!\
 [game01](https://github.com/ericung/game01)\
 [dost](https://github.com/ericung/dost)\
 [OpenCanvas](https://github.com/ericung/opencanvas)\
-[Icon OpenGL](https://github.com/ericung/icon-opengl)k
+[Icon OpenGL](https://github.com/ericung/icon-opengl)
