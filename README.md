@@ -11,11 +11,7 @@ Let's meet in person!\
 # Research
 
 **Articles**\
-[Riemann Hypothesis](https://github.com/ericung/RiemannHypothesis)\
-[Topology Of Javascript](https://github.com/ericung/TopologyOfJavascript)\
-[Harmonic Monomial Deciders](https://github.com/ericung/HarmonicMonomialDeciders)\
-[Topology for Software Engineers](https://github.com/ericung/topologyforsoftwareengineers)\
-[Inferrable Languages](https://github.com/ericung/InferrableLanguages) - 2.0\
+[Inferrable Languages](https://github.com/ericung/InferrableLanguages) - 2.0
 [Applications for Monomial Deciders](https://github.com/ericung/ApplicationsForMonomialDeciders)\
 [A Language of Polynomials](https://www.github.com/ericung/languageofpolynomials) - Start here and work your way up.
 
