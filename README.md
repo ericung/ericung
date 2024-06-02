@@ -1,1 +1,4 @@
-# README
+# Hello, my name is Eric!
+
+## Projects
+
