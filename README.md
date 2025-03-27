@@ -1,6 +1,6 @@
-# Hello, my name is Eric!
+# Hello, my name is Eric
 
-Invest in my projects and startups by being a sponsor!
+This is just for personal projects. 
 
 [demo](https://game0110092024-cwaub7bnayh4fugm.canadacentral-01.azurewebsites.net/) - azure site
 
