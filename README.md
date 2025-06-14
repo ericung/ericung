@@ -2,6 +2,8 @@
 
 This is just for personal projects. 
 
+[resume](Eric_Ung_Resume__3.docx) - Resume
+
 [demo](https://game0110092024-cwaub7bnayh4fugm.canadacentral-01.azurewebsites.net/) - azure site
 
 [sponsors](https://github.com/sponsors/ericung/button)
